@@ -1,0 +1,13 @@
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\bin\Debug\netstandard2.0\Masterpage.deps.json
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\bin\Debug\netstandard2.0\Masterpage.dll
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\bin\Debug\netstandard2.0\Masterpage.pdb
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\obj\Debug\netstandard2.0\Masterpage.csprojResolveAssemblyReference.cache
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\obj\Debug\netstandard2.0\Masterpage.csproj.CoreCompileInputs.cache
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\obj\Debug\netstandard2.0\Masterpage.App.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\obj\Debug\netstandard2.0\Masterpage.detalle.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\obj\Debug\netstandard2.0\Masterpage.maestro.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\obj\Debug\netstandard2.0\Masterpage.MainPage.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\obj\Debug\netstandard2.0\Masterpage.AssemblyInfoInputs.cache
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\obj\Debug\netstandard2.0\Masterpage.AssemblyInfo.cs
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\obj\Debug\netstandard2.0\Masterpage.dll
+C:\Users\DIANIZZ\source\repos\Masterpage\Masterpage\Masterpage\obj\Debug\netstandard2.0\Masterpage.pdb
